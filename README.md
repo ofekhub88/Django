@@ -1,5 +1,5 @@
 # Django
-'''bash
+```bash
 Prepare Your Environment
 When you’re ready to start your new Django web application, create a new folder and navigate into it. In this folder, you’ll set up a new virtual environment using your command line:
 
