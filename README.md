@@ -6,7 +6,7 @@ When you’re ready to start your new Django web application, create a new folde
 $ python3 -m venv env
 ```
 This command sets up a new virtual environment named env in your current working directory. Once the process is complete, you also need to activate the virtual environment:
-```bash
+```shell
 $ source env/bin/activate
 ```
 If the activation was successful, then you’ll see the name of your virtual environment, (env), at the beginning of your command prompt. This means that your environment setup is complete.
