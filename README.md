@@ -51,6 +51,10 @@ With your virtual environment set up and activated and Django installed, you can
 ```shell
 (env) $ django-admin startproject <project-name>
 ```
+
+```shell
+(env) $ python manage.py runserver <port> #################development Mode
+```
 This tutorial uses setup as an example for the project name:
 ```shell
 (env) $ django-admin startproject setup
@@ -84,9 +88,7 @@ The dot skips the top-level project folder and creates your management app and t
 Take a moment to explore the default project scaffolding that the django-admin command-line utility created for you. Every project that you’ll make using the startproject command will have the same structure.
 
 When you’re ready, you can move on to create a Django app as a lower-level unit of your new web application.
-```shell
-(env) $ python manage.py runserver <port> #development Mode
-```
+
 Start a Django App
 Every project you build with Django can contain multiple Django apps. When you ran the startproject command in the previous section, you created a management app that you’ll need for every default project that you’ll build. Now, you’ll create a Django app that’ll contain the specific functionality of your web application.
 
