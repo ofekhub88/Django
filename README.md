@@ -2,7 +2,7 @@
 
 Prepare Your Environment
 When you’re ready to start your new Django web application, create a new folder and navigate into it. In this folder, you’ll set up a new virtual environment using your command line:
-```bash
+```shell
 $ python3 -m venv env
 ```
 This command sets up a new virtual environment named env in your current working directory. Once the process is complete, you also need to activate the virtual environment:
