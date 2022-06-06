@@ -5,7 +5,8 @@
 ```
 ## Create project 
 ### this will creqte directory with project name with files
-   settings.py
+   settings.py ### all the project setting
+   urls.py     ### all teh roject Urls
    
  ```bash
   python  manage.py  startproject < project Name > .
