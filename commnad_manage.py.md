@@ -13,6 +13,13 @@
 ```
 ## Create app
      - avoid giving name that may conflict saved word like , test, prod , app etc ''
+### this will creqte directory with app name name with files
+   - all the pages of the application <p>   view.py
+   -  test for test defnition actios  <p>   test.py     
+   - Data stracture define Data compnenets (tables coulns ets ..) <p>   models.py 
+   -  Application configureation and regisreation  <p>   app.py   
+   - admin , by default create module for administration of the application ,p. admin.py
+     
  ```bash
   python  manage.py  startapp <Name of app>
 ```
