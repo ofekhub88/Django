@@ -24,7 +24,10 @@
   python  manage.py  startapp <Name of app>
 ```
 ## register the app
-![image](https://user-images.githubusercontent.com/50881797/172159365-3ed56f8a-d62b-464f-b28b-ce55966423c2.png)
+![image](https://user-images.githubusercontent.com/50881797/172160547-ca0bb395-a505-48e2-98ff-4f02622d571d.png)
+## this refering to existsng app in :
+![image](https://user-images.githubusercontent.com/50881797/172160701-ac8e97d0-8012-48f0-bcb5-da8e72bbfe60.png)
+
 
  ```bash
   python  manage.py  
