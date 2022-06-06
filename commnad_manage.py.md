@@ -24,6 +24,8 @@
   python  manage.py  startapp <Name of app>
 ```
 ##
+     ![image](https://user-images.githubusercontent.com/50881797/172159255-d707405e-f7dd-4f16-83d0-4e53fefe126c.png)
+
  ```bash
   python  manage.py  
 ```
