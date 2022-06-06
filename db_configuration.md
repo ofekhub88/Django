@@ -1,4 +1,4 @@
-# in setting.py in the prpoject lelvel
+# in setting.py in the prpoject level
 
 ```yaml
 DATABASES = {
