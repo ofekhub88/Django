@@ -5,15 +5,16 @@
 ```
 ## Create project 
 ### this will creqte directory with project name with files
-   settings.py ### all the project setting
-   urls.py     ### all teh roject Urls
-   
+   - all the project setting<p>   settings.py
+   - all the roject Urls <p>   urls.py     
+   - For development mode server this configure the entrypoint <p>   wsgi.py 
  ```bash
   python  manage.py  startproject < project Name > .
 ```
-##
+## Create app
+     - avoid giving name that may conflict saved word like , test, prod , app etc ''
  ```bash
-  python  manage.py  
+  python  manage.py  startapp <Name of app>
 ```
 ##
  ```bash
