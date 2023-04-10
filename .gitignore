@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+**/__pycache__/
 # C extensions
 *.so
 
@@ -107,40 +107,3 @@ CpuUsagePrediction
 .mypy_cache/
 
 .github/**
-./ML/.git/objects/1a/2d69a9e85289418440836343353faea21feefe
-./ML/.git/objects/5e/2bf14070780418ecbe4246382b2ce87d672929
-./ML/CpuUsagePrediction/processed_data.csv
-./ML/CpuUsagePrediction/vrops_data.csv
-./ML/CpuUsagePrediction/vrops_data_feb.csv
-./ML/LogClassification/template_list
-./ML/Udicity/deep-learning-v2-pytorch/style-transfer/amdocs_amazing.pth
-./ML/Udicity/deep-learning-v2-pytorch/style-transfer/ZafZafa.pt
-./ML/Udicity/deep-learning-v2-pytorch/word2vec-embeddings/data/text8
-./ML/Udicity/MYProjects/aipnd-project/cuda_checkpoint.cpt
-./ML/Udicity/MYProjects/dermatologist-ai/model_transfer.pt
-./.git/objects/af/0751107cd1f67c851ae8e30c7a7a2914f1f67b
-./.git/objects/pack/pack-0bee752c207da1512d61c523ea149fef8d38352d.pack
-./JenkinsPipiline/VirtualBox-6.1.18-142142-Win.exe
-./ML/.git/objects/1a/2d69a9e85289418440836343353faea21feefe
-./ML/.git/objects/5e/2bf14070780418ecbe4246382b2ce87d672929
-./ML/.git/objects/c0/cb7328e496de9e25c9b336444fbfa092924070
-./ML/binance-setup.exe
-./ML/CpuUsagePrediction/processed_data.csv
-./ML/CpuUsagePrediction/vrops_data.csv
-./ML/CpuUsagePrediction/vrops_data_feb.csv
-./ML/ForexPrediction/WhatsAppSetup.exe
-./ML/JenkinsHttpRespTime/jenkins_j_melody_train.csv
-./ML/JenkinsHttpRespTime/processed_data.csv
-./ML/JenkinsHttpRespTime/vrops_data.csv
-./ML/JenkinsHttpRespTime/vrops_data_feb.csv
-./ML/LogClassification/template_list
-./ML/StockPriceUsingLSTM/data/archive.zip
-./ML/Udicity/deep-learning-v2-pytorch/dcgan-svhn/data/train_32x32.mat
-./ML/Udicity/deep-learning-v2-pytorch/style-transfer/amdocs_amazing.pth
-./ML/Udicity/deep-learning-v2-pytorch/style-transfer/ZafZafa.pt
-./ML/Udicity/deep-learning-v2-pytorch/word2vec-embeddings/data/text8
-./ML/Udicity/MYProjects/aipnd-project/cuda_checkpoint.cpt
-./ML/Udicity/MYProjects/dermatologist-ai/model_transfer.pt
-./Terminal/Home/ffmpeg/bin/ffmpeg.exe
-./Terminal/Home/ffmpeg/bin/ffplay.exe
-./Terminal/Home/ffmpeg/bin/ffprobe.exe
