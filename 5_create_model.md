@@ -20,3 +20,9 @@ class Course(models.Model):
 python  manage.py  makemigrations < app name>
 python  manage.py  migrate 
 ```
+
+
+## Create Model from database existing table
+```bash
+ python manage.py inspectdb >models.py
+```
